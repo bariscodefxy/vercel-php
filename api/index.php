@@ -1,3 +1,3 @@
 <?php
-echo "<h1>Hello World</h1>";
-phpinfo();
+
+require_once dirname(__DIR__, 1) . "/index.php";
